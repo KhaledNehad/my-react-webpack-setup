@@ -10,3 +10,13 @@ body {
   background-color: variables.$bg;
   color: var(--text);
 }
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+ul {
+  list-style-image: url(../images/jenny.jpg);
+}
