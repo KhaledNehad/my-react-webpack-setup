@@ -1,9 +1,6 @@
 import './../styles/index.scss';
 import Recipes from './Recipes';
 
-import img from '../images/apple.svg';
-import img2 from '../images/image.png';
-
 const App = () => {
   return (
     <>
