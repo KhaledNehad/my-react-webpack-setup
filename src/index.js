@@ -1,3 +1,5 @@
+import './styles/index.scss';
+
 const myObj = {
   id: 1,
   name: 'khaled',
