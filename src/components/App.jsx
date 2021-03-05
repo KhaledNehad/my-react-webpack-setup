@@ -1,17 +1,10 @@
-import './../styles/index.scss';
-import Recipes from './Recipes';
+import './app.css';
 
 const App = () => {
   return (
-    <>
-      <section className='hero'></section>
-      <main>
-        <section>
-          <h1>Hello React :)</h1>
-          <Recipes />
-        </section>
-      </main>
-    </>
+    <div className='app'>
+      <h1>Welcome Khaled</h1> <p>Let's do a beautiful App </p>
+    </div>
   );
 };
 
