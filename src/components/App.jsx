@@ -10,8 +10,6 @@ const App = () => {
       <section className='hero'></section>
       <main>
         <section>
-          <img src={img} alt='apple' />
-          <img src={img2} alt='any' />
           <h1>Hello React :)</h1>
           <Recipes />
         </section>
